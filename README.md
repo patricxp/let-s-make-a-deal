@@ -1,7 +1,9 @@
 # 🎲 Let's Make a Deal (Monty Hall Problem) in MATLAB
 
-Implementasi game klasik **Monty Hall Problem** menggunakan MATLAB.  
-Game ini mensimulasikan perbedaan probabilitas menang antara **tetap dengan pilihan awal (stay)** dan **berpindah ke pintu lain (switch)**.
+Implementasi game klasik **Monty Hall Problem** menggunakan MATLAB. 
+Misalkan Anda berada di sebuah acara permainan, dan Anda diberikan pilihan tiga pintu: Di belakang salah satu pintu ada mobil; di belakang pintu lainnya, ada kambing. Anda memilih sebuah pintu, katakanlah Pintu No. 1, dan penyelenggara, yang tahu apa yang ada di balik pintu-pintu itu, membuka pintu lain, katakanlah Pintu No. 3, yang berisi kambing. Dia kemudian berkata kepada Anda, "Apakah Anda ingin memilih Pintu No. 2?" Apakah menguntungkan bagi Anda untuk mengganti pilihan Anda?
+
+Program utama dari game ini mensimulasikan perbedaan probabilitas menang antara **tetap dengan pilihan awal (stay)** dan **berpindah ke pintu lain (switch)**.
 
 ---
 
